@@ -7,8 +7,8 @@
 - **Author**: Om Sri Rohith Raj Yadav Thalla
 - **GitHub Repository**: [rohithrajthalla](https://github.com/rohithrajthalla)
 - **LinkedIn Profile**: [rohithrajthalla](https://www.linkedin.com/in/rohithrajthalla/)
-- **PowerPoint Presentation**: [To be added]
-- **YouTube Video**: [To be added]
+- **PowerPoint Presentation**: [Project Presentation](https://drive.google.com/file/d/1zxEkjt_2Cbftn77DO8ukgKR3mZ716n_Z/view?usp=sharing)
+- **YouTube Video**: [Youtube Video](https://youtu.be/8m1YLKTKQSQ)
 
 ## 2. Background
 

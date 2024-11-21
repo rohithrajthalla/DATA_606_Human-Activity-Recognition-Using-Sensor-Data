@@ -96,7 +96,7 @@ The project uses the UCI Machine Learning Repository's Daily and Sports Activiti
 ## Links
 - [Dataset Source](https://archive.ics.uci.edu/dataset/256/daily+and+sports+activities)
 - [Project Presentation](https://drive.google.com/file/d/1zxEkjt_2Cbftn77DO8ukgKR3mZ716n_Z/view?usp=sharing)
-- [Demo Video](link_to_be_added)
+- [Demo Video](https://drive.google.com/file/d/1yfVH86jtcAtW5CUmyQ8gjFXA7ZAiTbXq/view?usp=sharing)
 
 ## Acknowledgments
 - Dr. Chaojie (Jay) Wang for project guidance
